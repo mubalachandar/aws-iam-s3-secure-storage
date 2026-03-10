@@ -1,2 +1,21 @@
-# aws-iam-s3-secure-storage
-AWS cloud security project demonstrating IAM users, groups, and policies to enforce least-privilege access for uploading files to an Amazon S3 bucket.
+# AWS IAM Secure S3 Storage
+
+## Project Overview
+This project demonstrates secure access control in AWS using IAM users, groups, and policies.
+
+## Services Used
+IAM
+Amazon S3
+
+## Architecture
+Admin manages IAM permissions.
+Developer users can upload files but cannot delete the bucket.
+
+## Security Principle
+Least Privilege
+
+## IAM Policy
+Explain the upload-only policy.
+
+## Screenshots
+Add project screenshots.
